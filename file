@@ -12,8 +12,6 @@ ANSWER: B
 
 
 
-
-
 2. Which of the annotation is not a Spring boot annotation?
 
 
@@ -56,7 +54,7 @@ c. spring-boot-maven-plugin
 
 d. spring-boot-html\
 
-ANSWER: A
+ANSWER: B
 
 
 5. Database Objects must be annotated with
@@ -70,11 +68,8 @@ c. @Column
 
 d. @Repository
 
+
 ANSWER: D
-
-
-
-
 
 
 6. Which of the Following are true?
@@ -88,9 +83,7 @@ c. Methods annotated with @RestController automatically converts Outputs with HT
 
 d. All the Above
 
-ANSWER:D
-
-
+ANSWER: D
 
 
 
